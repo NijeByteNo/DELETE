@@ -1,0 +1,11 @@
+/*Write a code to print the following output:
+Name: Mr.X
+Univ: University of Dhaka*/
+
+#include<stdio.h>
+void main ()
+{
+printf("Name: Mr.X\n");
+printf("Univ: University of Dhaka\n");
+
+}
