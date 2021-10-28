@@ -1,0 +1,22 @@
+/*Write a program to print following output:
+   
+     *
+    ***
+   *****
+  *******
+   *****
+    ***
+     *        */
+     
+     #include<stdio.h>
+void main ()
+{
+printf("    *\n");
+printf("   ***\n");
+printf("  *****\n");
+printf(" *******\n");
+printf("*********\n");
+printf(" *******\n");
+printf("   ***\n");
+printf("    *\n");
+}
